@@ -82,7 +82,7 @@ export default function Home() {
               <Brain className="w-6 h-6 text-purple-400" />
             </div>
             <div>
-              <h2 className="text-lg font-semibold text-white">Anna's</h2>
+              <h2 className="text-lg font-semibold text-white">Anna&apos;s</h2>
               <p className="text-xs text-gray-500">Superbrain</p>
             </div>
           </div>
@@ -136,7 +136,7 @@ export default function Home() {
                 <Brain className="w-8 h-8 text-purple-400" />
               </div>
               <h1 className="text-4xl font-bold text-white">
-                Anna's Superbrain
+                Anna&apos;s Superbrain
               </h1>
             </div>
             <p className="text-gray-400 text-lg">
